@@ -1,0 +1,27 @@
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git init
+Initialized empty Git repository in C:/Users/Admin/Documents/WAD_Lab/Assignment_4/JOuery/.git/
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git add .
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git commit -m "Initial Commit"
+[master (root-commit) 2e4ef11] Initial Commit
+ 7 files changed, 228 insertions(+)
+ create mode 100644 Penguins.jpg
+ create mode 100644 index.html
+ create mode 100644 jquery-1.11.1.min.js
+ create mode 100644 jquery.mobile-1.4.5.min.css
+ create mode 100644 jquery.mobile-1.4.5.min.js
+ create mode 100644 login.html
+ create mode 100644 login_register.html
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git branch -M main
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git remote add origin https://github.com/YashVarma286/Mobile_JQuery.git
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery> git push -u origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 870.00 KiB | 11.30 MiB/s, done.
+Total 9 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/YashVarma286/Mobile_JQuery.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\Admin\Documents\WAD_Lab\Assignment_4\JOuery>
