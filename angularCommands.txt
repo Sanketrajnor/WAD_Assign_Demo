@@ -1,0 +1,3 @@
+npm --version #to check version
+npm install -g @angular/cli@latest #install angular cli globally
+ng new part-c #create new angular module
